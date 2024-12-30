@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.2.0
+// Latest version: 5.3.0
 // Especially for Shika
 
 11001: Tinh Slime [Dịch Slime x3]
@@ -462,6 +462,12 @@
 60904: Lông Vũ Tơ Lụa [Phủ Định Và Phán Quyết x1 Dung Môi Ảo Mộng x1]
 60905: Phủ Định Và Phán Quyết [Ngọn Nến Lửa Tàn x1 Dung Môi Ảo Mộng x1]
 60906: Phủ Định Và Phán Quyết [Lông Vũ Tơ Lụa x1 Dung Môi Ảo Mộng x1]
+61001: Sừng Ăn Mòn [Lửa Mặt Trời Ăn Mòn x1 Dung Môi Ảo Mộng x1]
+61002: Sừng Ăn Mòn [Lông Vảy Ăn Mòn x1 Dung Môi Ảo Mộng x1]
+61003: Lửa Mặt Trời Ăn Mòn [Sừng Ăn Mòn x1 Dung Môi Ảo Mộng x1]
+61004: Lửa Mặt Trời Ăn Mòn [Lông Vảy Ăn Mòn x1 Dung Môi Ảo Mộng x1]
+61005: Lông Vảy Ăn Mòn [Sừng Ăn Mòn x1 Dung Môi Ảo Mộng x1]
+61006: Lông Vảy Ăn Mòn [Lửa Mặt Trời Ăn Mòn x1 Dung Môi Ảo Mộng x1]
 70101: Phôi Kiếm Đơn Bắc Lục [Phôi Kiếm Đơn Trung Địa x1 Dung Môi Ảo Mộng x2]
 70201: Phôi Cung Bắc Lục [Phôi Cung Trung Địa x1 Dung Môi Ảo Mộng x2]
 70301: Phôi Trọng Kiếm Bắc Lục [Phôi Trọng Kiếm Trung Địa x1 Dung Môi Ảo Mộng x2]
