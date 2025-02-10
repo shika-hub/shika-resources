@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.3.0
+// Latest version: 5.4.0
 // Especially for Shika
 
 11001: 史莱姆清 [史莱姆凝液 x3]
@@ -506,3 +506,9 @@
 30006: 黄色染料 [石珀 x1]
 30007: 蓝色染料 [薄荷 x1]
 30008: 蓝色染料 [钩钩果 x1]
+30009: 红色染料 [墩墩桃 x1]
+30010: 红色染料 [烬芯花 x1]
+30011: 黄色染料 [茉洁草 x1]
+30012: 蓝色染料 [幽灯蕈 x1]
+30013: 蓝色染料 [汐藻 x1]
+30014: 蓝色染料 [青蜜莓 x1]

@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.3.0
+// Latest version: 5.4.0
 // Especially for Shika
 
 11001: Slime Secretions [Slime Condensate x3]
@@ -506,3 +506,9 @@
 30006: สีย้อมสีเหลือง [Cor Lapis x1]
 30007: สีย้อมสีฟ้า [Mint x1]
 30008: สีย้อมสีฟ้า [Wolfhook x1]
+30009: สีย้อมสีแดง [Zaytun Peach x1]
+30010: สีย้อมสีแดง [Embercore Flower x1]
+30011: สีย้อมสีเหลือง [Marcotte x1]
+30012: สีย้อมสีฟ้า [Fluorescent Fungus x1]
+30013: สีย้อมสีฟ้า [Tidalga x1]
+30014: สีย้อมสีฟ้า [Quenepa Berry x1]
