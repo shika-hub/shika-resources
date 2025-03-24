@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: Slime Secretions [Slime Condensate x3]
@@ -80,6 +80,8 @@
 11070: Heart of the Secret Source [Sheath of the Secret Source x3]
 11071: Bewildering Broadleaf [Refractive Bud x3]
 11072: Illusory Leafcoil [Bewildering Broadleaf x3]
+11073: Warm Back-Shell [Cold-Cracked Shellshard x3]
+11074: Blazing Prismshell [Warm Back-Shell x3]
 12001: Debris of Decarabian's City [Tile of Decarabian's Tower x3]
 12002: Fragment of Decarabian's Epic [Debris of Decarabian's City x3]
 12003: Scattered Piece of Decarabian's Dream [Fragment of Decarabian's Epic x3]
@@ -185,7 +187,7 @@
 14013: Unmoving Essential Oil [Frog x1 Cor Lapis x1]
 14014: Forest Essential Oil [Lizard Tail x1 Sumeru Rose x1]
 14101: "Pure Water" [Wheat x3 Pinecone x2 Tidalga x1]
-14102: "Strength Tonic" [Candlecap Mushroom x2 Saurian claw succulent x1]
+14102: "Strength Tonic" [Candlecap Mushroom x2 Saurian Claw Succulent x1]
 15001: Agnidus Agate Fragment [Agnidus Agate Sliver x3]
 15002: Agnidus Agate Chunk [Agnidus Agate Fragment x3]
 15003: Agnidus Agate Gemstone [Agnidus Agate Chunk x3]

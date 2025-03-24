@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: スライムの分泌物 [スライムの液体 x3]
@@ -80,6 +80,8 @@
 11070: 秘源のコア [秘源のシース x3]
 11071: 誘光の広葉 [折光の胚芽 x3]
 11072: 光惑う渦葉のコア [誘光の広葉 x3]
+11073: 熱を秘めた鱗甲 [冷えた鱗甲の欠片 x3]
+11074: 燃える鱗甲のプリズム [熱を秘めた鱗甲 x3]
 12001: 高塔の王の残壁 [高塔の王の瓦 x3]
 12002: 高塔の王の断片 [高塔の王の残壁 x3]
 12003: 高塔の王の砕けた夢 [高塔の王の断片 x3]

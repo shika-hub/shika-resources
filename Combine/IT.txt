@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: Secrezioni di Melmoso [Bava di Melmoso x3]
@@ -80,6 +80,8 @@
 11070: Cuore della Fonte segreta [Involucro della Fonte segreta x3]
 11071: Granfoglia stupefacente [Germoglio rifrangente x3]
 11072: Fillospirale illusoria [Granfoglia stupefacente x3]
+11073: Carapace posteriore caldo [Carapace incrinato dal freddo x3]
+11074: Carapace prismardente [Carapace posteriore caldo x3]
 12001: Resti della Città di Decarabian [Tegola della Torre di Decarabian x3]
 12002: Frammento dell'epopea di Decarabian [Resti della Città di Decarabian x3]
 12003: Frammento del sogno di Decarabian [Frammento dell'epopea di Decarabian x3]

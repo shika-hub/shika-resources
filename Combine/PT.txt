@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: Secreção de Slime [Condensado de Slime x3]
@@ -80,6 +80,8 @@
 11070: Coração da Fonte Secreta [Revestimento da Fonte Secreta x3]
 11071: Folha Desconcertante [Broto Refratante x3]
 11072: Folha Ilusória [Folha Desconcertante x3]
+11073: Concha Quente [Pedaço de Concha Fria x3]
+11074: Concha Prismática Ardente [Concha Quente x3]
 12001: Detritos da Cidade de Decarabian [Fragmento de Azulejo de Decarabian x3]
 12002: Fragmentos Épicos da Decarabian [Detritos da Cidade de Decarabian x3]
 12003: Pedaços de Sonho da Decarabian [Fragmentos Épicos da Decarabian x3]

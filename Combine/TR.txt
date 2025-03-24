@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: Bodurlop Salgıları [Bodurlop Özü x3]
@@ -80,6 +80,8 @@
 11070: Gizli Kaynağın Kalbi [Gizli Kaynak Yuvası x3]
 11071: Büyüleyici Geniş Yaprak [Kırılmış Tomurcuk x3]
 11072: Hayali Yaprak Buklesi [Büyüleyici Geniş Yaprak x3]
+11073: Sıcak Sırt Kabuğu [Soğuktan Çatlamış Kabuk Parçası x3]
+11074: Alevli Prizma Kabuğu [Sıcak Sırt Kabuğu x3]
 12001: Decarabian'ın Yıkık Duvarı [Decarabian'ın Kırık Çinisi x3]
 12002: Decarabian'ın Destansı Parçası [Decarabian'ın Yıkık Duvarı x3]
 12003: Decarabian'ın Rüya Parçası [Decarabian'ın Destansı Parçası x3]

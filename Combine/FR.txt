@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: Mucus de Blob [Bave de Blob x3]
@@ -75,11 +75,13 @@
 11065: Image de volonté claire [Fragment de volonté brisée x3]
 11066: Sceau de volonté errante [Image de volonté claire x3]
 11067: Graine enflammée [Pierre enflammée x3]
-11068: Œil enflammé [Graine enflammée x3]
+11068: Œil lucide enflammé [Graine enflammée x3]
 11069: Gaine de la source secrète [Axe de la source secrète x3]
 11070: Noyau de la source secrète [Gaine de la source secrète x3]
 11071: Feuillage déroutant [Bourgeon réfractif x3]
 11072: Cœur illusoire de feuille [Feuillage déroutant x3]
+11073: Coquille brisée chaude [Coquille brisée froide x3]
+11074: Caraprisme enflammé [Coquille brisée chaude x3]
 12001: Mur abattu de Décarabian [Tuile cassée de Décarabian x3]
 12002: Fragment dispersé de Décarabian [Mur abattu de Décarabian x3]
 12003: Rêve brisé de Décarabian [Fragment dispersé de Décarabian x3]

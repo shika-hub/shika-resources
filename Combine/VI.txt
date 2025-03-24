@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: Tinh Slime [Dịch Slime x3]
@@ -80,6 +80,8 @@
 11070: Lõi Bí Ẩn [Vỏ Máy Bí Ẩn x3]
 11071: Lá Tán Xạ [Mầm Khúc Xạ x3]
 11072: Lõi Lá Cuộn Biến Ảo [Lá Tán Xạ x3]
+11073: Vỏ Lưng Ấm Áp [Mảnh Vỏ Lạnh Nứt x3]
+11074: Vỏ Lăng Kính Rực Cháy [Vỏ Lưng Ấm Áp x3]
 12001: Xác Tàu Tháp Cô Vương [Ngói Vỡ Tháp Cô Vương x3]
 12002: Mảnh Vỡ Tháp Cô Vương [Xác Tàu Tháp Cô Vương x3]
 12003: Mảnh Giấc Mơ Tháp Cô Vương [Mảnh Vỡ Tháp Cô Vương x3]

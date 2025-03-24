@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: 史莱姆清 [史莱姆凝液 x3]
@@ -80,6 +80,8 @@
 11070: 秘源真芯 [秘源机鞘 x3]
 11071: 惑光的阔叶 [折光的胚芽 x3]
 11072: 迷光的蜷叶之心 [惑光的阔叶 x3]
+11073: 蕴热的背壳 [冷裂壳块 x3]
+11074: 明燃的棱状壳 [蕴热的背壳 x3]
 12001: 高塔孤王的残垣 [高塔孤王的破瓦 x3]
 12002: 高塔孤王的断片 [高塔孤王的残垣 x3]
 12003: 高塔孤王的碎梦 [高塔孤王的断片 x3]

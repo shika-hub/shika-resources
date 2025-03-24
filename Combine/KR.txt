@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.4.0
+// Latest version: 5.5.0
 // Especially for Shika
 
 11001: 슬라임청 [슬라임 응축액 x3]
@@ -80,6 +80,8 @@
 11070: 비밀근원 코어 [비밀근원 기판 x3]
 11071: 빛을 현혹하는 잎 [빛을 굴절하는 씨눈 x3]
 11072: 빛을 미혹하는 잎말이 [빛을 현혹하는 잎 x3]
+11073: 열기를 품은 껍질 [차갑게 식은 껍질 x3]
+11074: 밝게 타오르는 껍질 [열기를 품은 껍질 x3]
 12001: 고탑 왕의 절망 [고탑 왕의 잔해 x3]
 12002: 고탑 왕의 조각 [고탑 왕의 절망 x3]
 12003: 고탑 왕의 깨진 꿈 [고탑 왕의 조각 x3]
