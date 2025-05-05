@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.5.0
+// Latest version: 5.6.0
 // Especially for Shika
 
 11001: Mucus de Blob [Bave de Blob x3]
@@ -470,6 +470,12 @@
 61004: Rayon érodé [Plume érodée x1 Solvant de rêve x1]
 61005: Plume érodée [Corne érodée x1 Solvant de rêve x1]
 61006: Plume érodée [Rayon érodé x1 Solvant de rêve x1]
+61101: Échantillon ascensionné : Cavalier [Échantillon ascensionné : Tour x1 Solvant de rêve x1]
+61102: Échantillon ascensionné : Cavalier [Échantillon ascensionné : Dame x1 Solvant de rêve x1]
+61103: Échantillon ascensionné : Tour [Échantillon ascensionné : Cavalier x1 Solvant de rêve x1]
+61104: Échantillon ascensionné : Tour [Échantillon ascensionné : Dame x1 Solvant de rêve x1]
+61105: Échantillon ascensionné : Dame [Échantillon ascensionné : Cavalier x1 Solvant de rêve x1]
+61106: Échantillon ascensionné : Dame [Échantillon ascensionné : Tour x1 Solvant de rêve x1]
 70101: Base d'épée du nord [Base d'épée du centre x1 Solvant de rêve x2]
 70201: Base d'arc du nord [Base d'arc du centre x1 Solvant de rêve x2]
 70301: Base d'épée à deux mains du nord [Base d'épée à deux mains du centre x1 Solvant de rêve x2]

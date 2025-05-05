@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.5.0
+// Latest version: 5.6.0
 // Especially for Shika
 
 11001: Schleimkondensat [Schleimabsonderung x3]
@@ -470,6 +470,12 @@
 61004: Erodiertes Sonnenfeuer [Erodierte Schuppenfeder x1 Traumlösungsmittel x1]
 61005: Erodierte Schuppenfeder [Erodiertes Horn x1 Traumlösungsmittel x1]
 61006: Erodierte Schuppenfeder [Erodiertes Sonnenfeuer x1 Traumlösungsmittel x1]
+61101: Aufstiegsprobe – Springer [Aufstiegsprobe – Turm x1 Traumlösungsmittel x1]
+61102: Aufstiegsprobe – Springer [Aufstiegsprobe – Dame x1 Traumlösungsmittel x1]
+61103: Aufstiegsprobe – Turm [Aufstiegsprobe – Springer x1 Traumlösungsmittel x1]
+61104: Aufstiegsprobe – Turm [Aufstiegsprobe – Dame x1 Traumlösungsmittel x1]
+61105: Aufstiegsprobe – Dame [Aufstiegsprobe – Springer x1 Traumlösungsmittel x1]
+61106: Aufstiegsprobe – Dame [Aufstiegsprobe – Turm x1 Traumlösungsmittel x1]
 70101: Unbearbeiteter Einhänder des Nordens [Unbearbeiteter Einhänder des Kernlands x1 Traumlösungsmittel x2]
 70201: Unbearbeiteter Bogen des Nordens [Unbearbeiteter Bogen des Kernlands x1 Traumlösungsmittel x2]
 70301: Unbearbeiteter Zweihänder des Nordens [Unbearbeiteter Zweihänder des Kernlands x1 Traumlösungsmittel x2]
