@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.7.0
+// Latest version: 5.8.0
 // Especially for Shika
 
 11001: Secrezioni di Melmoso [Bava di Melmoso x3]
@@ -470,11 +470,11 @@
 61004: Fuoco solare eroso [Squamopiuma erosa x1 Solvente dei sogni x1]
 61005: Squamopiuma erosa [Corno eroso x1 Solvente dei sogni x1]
 61006: Squamopiuma erosa [Fuoco solare eroso x1 Solvente dei sogni x1]
-61101: Campione asceso: Cavaliere [Campione asceso: Torre x1 Solvente dei sogni x1]
-61102: Campione asceso: Cavaliere [Campione asceso: Regina x1 Solvente dei sogni x1]
-61103: Campione asceso: Torre [Campione asceso: Cavaliere x1 Solvente dei sogni x1]
+61101: Campione asceso: Cavallo [Campione asceso: Torre x1 Solvente dei sogni x1]
+61102: Campione asceso: Cavallo [Campione asceso: Regina x1 Solvente dei sogni x1]
+61103: Campione asceso: Torre [Campione asceso: Cavallo x1 Solvente dei sogni x1]
 61104: Campione asceso: Torre [Campione asceso: Regina x1 Solvente dei sogni x1]
-61105: Campione asceso: Regina [Campione asceso: Cavaliere x1 Solvente dei sogni x1]
+61105: Campione asceso: Regina [Campione asceso: Cavallo x1 Solvente dei sogni x1]
 61106: Campione asceso: Regina [Campione asceso: Torre x1 Solvente dei sogni x1]
 70101: Billetta della Spada del Nord [Billetta della Spada delle terre centrali x1 Solvente dei sogni x2]
 70201: Billetta dell'Arco del Nord [Billetta dell'Arco delle terre centrali x1 Solvente dei sogni x2]

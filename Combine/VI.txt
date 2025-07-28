@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 5.7.0
+// Latest version: 5.8.0
 // Especially for Shika
 
 11001: Tinh Slime [Dịch Slime x3]
