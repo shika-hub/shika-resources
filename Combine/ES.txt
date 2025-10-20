@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.0.0
+// Latest version: 6.1.0
 // Especially for Shika
 
 11001: Babas de Slime [Condensado de Slime x3]
