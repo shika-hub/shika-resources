@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.2.0
+// Latest version: 6.3.0
 // Especially for Shika
 
 11001: Bodurlop Salgıları [Bodurlop Özü x3]
@@ -92,6 +92,8 @@
 11078: Parlak Dış İskelet [Parlayan Kalıntılar x3]
 11079: Sis Plakası [Sis Tezahürü x3]
 11080: Sis Miğferi [Sis Plakası x3]
+11081: Derin Gölgenin Sapkın Çekirdeği [Derin Gölgenin Kırık Gözü x3]
+11082: Derin Gölgenin Kancalı Gagası [Derin Gölgenin Sapkın Çekirdeği x3]
 12001: Decarabian'ın Yıkık Duvarı [Decarabian'ın Kırık Çinisi x3]
 12002: Decarabian'ın Destansı Parçası [Decarabian'ın Yıkık Duvarı x3]
 12003: Decarabian'ın Rüya Parçası [Decarabian'ın Destansı Parçası x3]
@@ -503,6 +505,12 @@
 61104: Yükselmiş Örnek: Kale [Yükselmiş Örnek: Vezir x1 Rüya Çözücü x1]
 61105: Yükselmiş Örnek: Vezir [Yükselmiş Örnek: At x1 Rüya Çözücü x1]
 61106: Yükselmiş Örnek: Vezir [Yükselmiş Örnek: Kale x1 Rüya Çözücü x1]
+61201: Erdemli Doktorun Maskesi [Deli Dizginleme Kayışı x1 Rüya Çözücü x1]
+61202: Erdemli Doktorun Maskesi [Sapkının İksiri x1 Rüya Çözücü x1]
+61203: Deli Dizginleme Kayışı [Erdemli Doktorun Maskesi x1 Rüya Çözücü x1]
+61204: Deli Dizginleme Kayışı [Sapkının İksiri x1 Rüya Çözücü x1]
+61205: Sapkının İksiri [Erdemli Doktorun Maskesi x1 Rüya Çözücü x1]
+61206: Sapkının İksiri [Deli Dizginleme Kayışı x1 Rüya Çözücü x1]
 70101: Kuzey Diyarı Kılıç Prototipi [Orta Diyar Kılıç Prototipi x1 Rüya Çözücü x2]
 70201: Kuzey Diyarı Yay Prototipi [Orta Diyar Yay Prototipi x1 Rüya Çözücü x2]
 70301: Kuzey Diyarı Çift Elli Kılıç Prototipi [Orta Diyar Çift Elli Kılıç Prototipi x1 Rüya Çözücü x2]

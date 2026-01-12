@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.2.0
+// Latest version: 6.3.0
 // Especially for Shika
 
 11001: Schleimkondensat [Schleimabsonderung x3]
@@ -92,6 +92,8 @@
 11078: Leuchtendes Außenskelett [Schimmernde Überreste x3]
 11079: Rüstungsfragment des Nebels [Gestalt gewordener Nebel x3]
 11080: Helm des Nebels [Rüstungsfragment des Nebels x3]
+11081: Aberranter Kern der tiefen Schatten [Gebrochenes Auge der tiefen Schatten x3]
+11082: Schnabel der tiefen Schatten [Aberranter Kern der tiefen Schatten x3]
 12001: Decarabians zerbröckelter Wall [Decarabians zerbrochener Ziegel x3]
 12002: Decarabians Palastfragment [Decarabians zerbröckelter Wall x3]
 12003: Decarabians zerstörter Traum [Decarabians Palastfragment x3]
@@ -503,6 +505,12 @@
 61104: Aufstiegsprobe – Turm [Aufstiegsprobe – Dame x1 Traumlösungsmittel x1]
 61105: Aufstiegsprobe – Dame [Aufstiegsprobe – Springer x1 Traumlösungsmittel x1]
 61106: Aufstiegsprobe – Dame [Aufstiegsprobe – Turm x1 Traumlösungsmittel x1]
+61201: Maske des tugendhaften Arztes [Fesseln des Verrückten x1 Traumlösungsmittel x1]
+61202: Maske des tugendhaften Arztes [Elixier des Ketzers x1 Traumlösungsmittel x1]
+61203: Fesseln des Verrückten [Maske des tugendhaften Arztes x1 Traumlösungsmittel x1]
+61204: Fesseln des Verrückten [Elixier des Ketzers x1 Traumlösungsmittel x1]
+61205: Elixier des Ketzers [Maske des tugendhaften Arztes x1 Traumlösungsmittel x1]
+61206: Elixier des Ketzers [Fesseln des Verrückten x1 Traumlösungsmittel x1]
 70101: Unbearbeiteter Einhänder des Nordens [Unbearbeiteter Einhänder des Kernlands x1 Traumlösungsmittel x2]
 70201: Unbearbeiteter Bogen des Nordens [Unbearbeiteter Bogen des Kernlands x1 Traumlösungsmittel x2]
 70301: Unbearbeiteter Zweihänder des Nordens [Unbearbeiteter Zweihänder des Kernlands x1 Traumlösungsmittel x2]

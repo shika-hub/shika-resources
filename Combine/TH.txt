@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.2.0
+// Latest version: 6.3.0
 // Especially for Shika
 
 11001: Slime Secretions [Slime Condensate x3]
@@ -92,6 +92,8 @@
 11078: Radiant Exoskeleton [Glowing Remains x3]
 11079: Mistshroud Plate [Mistshroud Manifestation x3]
 11080: Mistshroud Helmet [Mistshroud Plate x3]
+11081: Aberrant Core of the Deep Shadow [Fractured Eye of the Deep Shadow x3]
+11082: Hooked Beak of the Deep Shadow [Aberrant Core of the Deep Shadow x3]
 12001: Debris of Decarabian's City [Tile of Decarabian's Tower x3]
 12002: Fragment of Decarabian's Epic [Debris of Decarabian's City x3]
 12003: Scattered Piece of Decarabian's Dream [Fragment of Decarabian's Epic x3]
@@ -503,6 +505,12 @@
 61104: Ascended Sample: Rook [Ascended Sample: Queen x1 Dream Solvent x1]
 61105: Ascended Sample: Queen [Ascended Sample: Knight x1 Dream Solvent x1]
 61106: Ascended Sample: Queen [Ascended Sample: Rook x1 Dream Solvent x1]
+61201: Mask of the Virtuous Doctor [Madman's Restraint x1 Dream Solvent x1]
+61202: Mask of the Virtuous Doctor [Elixir of the Heretic x1 Dream Solvent x1]
+61203: Madman's Restraint [Mask of the Virtuous Doctor x1 Dream Solvent x1]
+61204: Madman's Restraint [Elixir of the Heretic x1 Dream Solvent x1]
+61205: Elixir of the Heretic [Mask of the Virtuous Doctor x1 Dream Solvent x1]
+61206: Elixir of the Heretic [Madman's Restraint x1 Dream Solvent x1]
 70101: Northlander Sword Billet [Midlander Sword Billet x1 Dream Solvent x2]
 70201: Northlander Bow Billet [Midlander Bow Billet x1 Dream Solvent x2]
 70301: Northlander Claymore Billet [Midlander Claymore Billet x1 Dream Solvent x2]

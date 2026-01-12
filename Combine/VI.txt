@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.2.0
+// Latest version: 6.3.0
 // Especially for Shika
 
 11001: Tinh Slime [Dịch Slime x3]
@@ -92,6 +92,8 @@
 11078: Xương Ngoài Lấp Lánh [Di Cốt Âm U x3]
 11079: Mảnh Giáp Sương Mù [Hóa Hình Sương Mù x3]
 11080: Mũ Giáp Sương Mù [Mảnh Giáp Sương Mù x3]
+11081: Lõi Quái U Ám [Mắt Nứt U Ám x3]
+11082: Mỏ Móc U Ám [Lõi Quái U Ám x3]
 12001: Xác Tàu Tháp Cô Vương [Ngói Vỡ Tháp Cô Vương x3]
 12002: Mảnh Vỡ Tháp Cô Vương [Xác Tàu Tháp Cô Vương x3]
 12003: Mảnh Giấc Mơ Tháp Cô Vương [Mảnh Vỡ Tháp Cô Vương x3]
@@ -503,6 +505,12 @@
 61104: Mẫu Vật Thăng Thần: Xe [Mẫu Vật Thăng Thần: Hậu x1 Dung Môi Ảo Mộng x1]
 61105: Mẫu Vật Thăng Thần: Hậu [Mẫu Vật Thăng Thần: Mã x1 Dung Môi Ảo Mộng x1]
 61106: Mẫu Vật Thăng Thần: Hậu [Mẫu Vật Thăng Thần: Xe x1 Dung Môi Ảo Mộng x1]
+61201: Mặt Nạ Của Hiền Y [Trói Buộc Của Kẻ Điên x1 Dung Môi Ảo Mộng x1]
+61202: Mặt Nạ Của Hiền Y [Lọ Thuốc Của Dị Đoan x1 Dung Môi Ảo Mộng x1]
+61203: Trói Buộc Của Kẻ Điên [Mặt Nạ Của Hiền Y x1 Dung Môi Ảo Mộng x1]
+61204: Trói Buộc Của Kẻ Điên [Lọ Thuốc Của Dị Đoan x1 Dung Môi Ảo Mộng x1]
+61205: Lọ Thuốc Của Dị Đoan [Mặt Nạ Của Hiền Y x1 Dung Môi Ảo Mộng x1]
+61206: Lọ Thuốc Của Dị Đoan [Trói Buộc Của Kẻ Điên x1 Dung Môi Ảo Mộng x1]
 70101: Phôi Kiếm Đơn Bắc Lục [Phôi Kiếm Đơn Trung Địa x1 Dung Môi Ảo Mộng x2]
 70201: Phôi Cung Bắc Lục [Phôi Cung Trung Địa x1 Dung Môi Ảo Mộng x2]
 70301: Phôi Trọng Kiếm Bắc Lục [Phôi Trọng Kiếm Trung Địa x1 Dung Môi Ảo Mộng x2]

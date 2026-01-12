@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.2.0
+// Latest version: 6.3.0
 // Especially for Shika
 
 11001: Secreção de Slime [Condensado de Slime x3]
@@ -92,6 +92,8 @@
 11078: Exoesqueleto Radiante [Restos da Luz Rara x3]
 11079: Placa da Névoa [Névoa Solidificada x3]
 11080: Capacete da Névoa [Placa da Névoa x3]
+11081: Núcleo Aberrante da Sombra Profunda [Olho Fraturado da Sombra Profunda x3]
+11082: Bico da Sombra Profunda [Núcleo Aberrante da Sombra Profunda x3]
 12001: Detritos da Cidade de Decarabian [Fragmento de Azulejo de Decarabian x3]
 12002: Fragmentos Épicos da Decarabian [Detritos da Cidade de Decarabian x3]
 12003: Pedaços de Sonho da Decarabian [Fragmentos Épicos da Decarabian x3]
@@ -503,6 +505,12 @@
 61104: Amostra Ascendida: Torre [Amostra Ascendida: Rainha x1 Solvente dos Sonhos x1]
 61105: Amostra Ascendida: Rainha [Amostra Ascendida: Cavalo x1 Solvente dos Sonhos x1]
 61106: Amostra Ascendida: Rainha [Amostra Ascendida: Torre x1 Solvente dos Sonhos x1]
+61201: Máscara do Doutor Virtuoso [Contenções do Louco x1 Solvente dos Sonhos x1]
+61202: Máscara do Doutor Virtuoso [Elixir do Herege x1 Solvente dos Sonhos x1]
+61203: Contenções do Louco [Máscara do Doutor Virtuoso x1 Solvente dos Sonhos x1]
+61204: Contenções do Louco [Elixir do Herege x1 Solvente dos Sonhos x1]
+61205: Elixir do Herege [Máscara do Doutor Virtuoso x1 Solvente dos Sonhos x1]
+61206: Elixir do Herege [Contenções do Louco x1 Solvente dos Sonhos x1]
 70101: Protótipo de Espada do Território do Norte [Protótipo de Espada do Território Central x1 Solvente dos Sonhos x2]
 70201: Protótipo do Arco do Território do Norte [Protótipo de Arco do Território Central x1 Solvente dos Sonhos x2]
 70301: Protótipo de Espadão do Território do Norte [Protótipo de Espadão do Território Central x1 Solvente dos Sonhos x2]

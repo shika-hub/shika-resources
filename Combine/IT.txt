@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.2.0
+// Latest version: 6.3.0
 // Especially for Shika
 
 11001: Secrezioni di Melmoso [Bava di Melmoso x3]
@@ -92,6 +92,8 @@
 11078: Esoscheletro radioso [Resti luminescenti x3]
 11079: Frammento di armatura brumoso [Manifestazione brumosa x3]
 11080: Elmo brumoso [Frammento di armatura brumoso x3]
+11081: Nucleo aberrante dell'ombra profonda [Occhio frammentato dell'ombra profonda x3]
+11082: Becco uncinato dell'ombra profonda [Nucleo aberrante dell'ombra profonda x3]
 12001: Resti della Città di Decarabian [Tegola della Torre di Decarabian x3]
 12002: Frammento dell'epopea di Decarabian [Resti della Città di Decarabian x3]
 12003: Frammento del sogno di Decarabian [Frammento dell'epopea di Decarabian x3]
@@ -503,6 +505,12 @@
 61104: Campione asceso: Torre [Campione asceso: Regina x1 Solvente dei sogni x1]
 61105: Campione asceso: Regina [Campione asceso: Cavallo x1 Solvente dei sogni x1]
 61106: Campione asceso: Regina [Campione asceso: Torre x1 Solvente dei sogni x1]
+61201: Maschera del dottore virtuoso [Vincolo del folle x1 Solvente dei sogni x1]
+61202: Maschera del dottore virtuoso [Elisir dell'eretico x1 Solvente dei sogni x1]
+61203: Vincolo del folle [Maschera del dottore virtuoso x1 Solvente dei sogni x1]
+61204: Vincolo del folle [Elisir dell'eretico x1 Solvente dei sogni x1]
+61205: Elisir dell'eretico [Maschera del dottore virtuoso x1 Solvente dei sogni x1]
+61206: Elisir dell'eretico [Vincolo del folle x1 Solvente dei sogni x1]
 70101: Billetta della Spada del Nord [Billetta della Spada delle terre centrali x1 Solvente dei sogni x2]
 70201: Billetta dell'Arco del Nord [Billetta dell'Arco delle terre centrali x1 Solvente dei sogni x2]
 70301: Billetta della Claymore del Nord [Billetta della Claymore delle terre centrali x1 Solvente dei sogni x2]
