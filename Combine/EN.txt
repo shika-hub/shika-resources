@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.4.0
+// Latest version: 6.5.0
 // Especially for Shika
 
 11001: Slime Secretions [Slime Condensate x3]
@@ -94,6 +94,8 @@
 11080: Mistshroud Helmet [Mistshroud Plate x3]
 11081: Aberrant Core of the Deep Shadow [Fractured Eye of the Deep Shadow x3]
 11082: Hooked Beak of the Deep Shadow [Aberrant Core of the Deep Shadow x3]
+11083: Fractured Flaming Hilt [Faded Flaming Hilt x3]
+11084: Jeweled Flaming Hilt [Fractured Flaming Hilt x3]
 12001: Debris of Decarabian's City [Tile of Decarabian's Tower x3]
 12002: Fragment of Decarabian's Epic [Debris of Decarabian's City x3]
 12003: Scattered Piece of Decarabian's Dream [Fragment of Decarabian's Epic x3]

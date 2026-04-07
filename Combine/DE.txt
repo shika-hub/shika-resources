@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.4.0
+// Latest version: 6.5.0
 // Especially for Shika
 
 11001: Schleimkondensat [Schleimabsonderung x3]
@@ -94,6 +94,8 @@
 11080: Helm des Nebels [Rüstungsfragment des Nebels x3]
 11081: Aberranter Kern der tiefen Schatten [Gebrochenes Auge der tiefen Schatten x3]
 11082: Schnabel der tiefen Schatten [Aberranter Kern der tiefen Schatten x3]
+11083: Zerbrochener Flammengriff [Verblasster Flammengriff x3]
+11084: Juwelenbesetzter Flammengriff [Zerbrochener Flammengriff x3]
 12001: Decarabians zerbröckelter Wall [Decarabians zerbrochener Ziegel x3]
 12002: Decarabians Palastfragment [Decarabians zerbröckelter Wall x3]
 12003: Decarabians zerstörter Traum [Decarabians Palastfragment x3]

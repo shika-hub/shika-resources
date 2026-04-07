@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.4.0
+// Latest version: 6.5.0
 // Especially for Shika
 
 11001: 슬라임청 [슬라임 응축액 x3]
@@ -94,6 +94,8 @@
 11080: 짙은 안개 투구 [짙은 안개 철편 x3]
 11081: 어둠의 핵 [어둠의 눈 x3]
 11082: 어둠의 부리 [어둠의 핵 x3]
+11083: 파손된 화염검 [빛바랜 화염검 x3]
+11084: 화려한 화염검 [파손된 화염검 x3]
 12001: 고탑 왕의 절망 [고탑 왕의 잔해 x3]
 12002: 고탑 왕의 조각 [고탑 왕의 절망 x3]
 12003: 고탑 왕의 깨진 꿈 [고탑 왕의 조각 x3]

@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.4.0
+// Latest version: 6.5.0
 // Especially for Shika
 
 11001: Bodurlop Salgıları [Bodurlop Özü x3]
@@ -94,6 +94,8 @@
 11080: Sis Miğferi [Sis Plakası x3]
 11081: Derin Gölgenin Sapkın Çekirdeği [Derin Gölgenin Kırık Gözü x3]
 11082: Derin Gölgenin Kancalı Gagası [Derin Gölgenin Sapkın Çekirdeği x3]
+11083: Kırık Alevli Kabza [Sönük Alevli Kabza x3]
+11084: Cevherli Alevli Kabza [Kırık Alevli Kabza x3]
 12001: Decarabian'ın Yıkık Duvarı [Decarabian'ın Kırık Çinisi x3]
 12002: Decarabian'ın Destansı Parçası [Decarabian'ın Yıkık Duvarı x3]
 12003: Decarabian'ın Rüya Parçası [Decarabian'ın Destansı Parçası x3]
