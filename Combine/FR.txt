@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.5.0
+// Latest version: 6.6.0
 // Especially for Shika
 
 11001: Mucus de Blob [Bave de Blob x3]
@@ -513,6 +513,12 @@
 61204: Contrainte du fou [Élixir de l'hérétique x1 Solvant de rêve x1]
 61205: Élixir de l'hérétique [Masque du médecin vertueux x1 Solvant de rêve x1]
 61206: Élixir de l'hérétique [Contrainte du fou x1 Solvant de rêve x1]
+61301: Résine contrefaite [Branche flétrie et tordue x1 Solvant de rêve x1]
+61302: Résine contrefaite [Pousse profane x1 Solvant de rêve x1]
+61303: Branche flétrie et tordue [Résine contrefaite x1 Solvant de rêve x1]
+61304: Branche flétrie et tordue [Pousse profane x1 Solvant de rêve x1]
+61305: Pousse profane [Résine contrefaite x1 Solvant de rêve x1]
+61306: Pousse profane [Branche flétrie et tordue x1 Solvant de rêve x1]
 70101: Base d'épée du nord [Base d'épée du centre x1 Solvant de rêve x2]
 70201: Base d'arc du nord [Base d'arc du centre x1 Solvant de rêve x2]
 70301: Base d'épée à deux mains du nord [Base d'épée à deux mains du centre x1 Solvant de rêve x2]

@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.5.0
+// Latest version: 6.6.0
 // Especially for Shika
 
 11001: Tinh Slime [Dịch Slime x3]
@@ -513,6 +513,12 @@
 61204: Trói Buộc Của Kẻ Điên [Lọ Thuốc Của Dị Đoan x1 Dung Môi Ảo Mộng x1]
 61205: Lọ Thuốc Của Dị Đoan [Mặt Nạ Của Hiền Y x1 Dung Môi Ảo Mộng x1]
 61206: Lọ Thuốc Của Dị Đoan [Trói Buộc Của Kẻ Điên x1 Dung Môi Ảo Mộng x1]
+61301: Nhựa Cây Giả Tạo [Cành Khô Vặn Xoắn x1 Dung Môi Ảo Mộng x1]
+61302: Nhựa Cây Giả Tạo [Chồi Non Báng Bổ x1 Dung Môi Ảo Mộng x1]
+61303: Cành Khô Vặn Xoắn [Nhựa Cây Giả Tạo x1 Dung Môi Ảo Mộng x1]
+61304: Cành Khô Vặn Xoắn [Chồi Non Báng Bổ x1 Dung Môi Ảo Mộng x1]
+61305: Chồi Non Báng Bổ [Nhựa Cây Giả Tạo x1 Dung Môi Ảo Mộng x1]
+61306: Chồi Non Báng Bổ [Cành Khô Vặn Xoắn x1 Dung Môi Ảo Mộng x1]
 70101: Phôi Kiếm Đơn Bắc Lục [Phôi Kiếm Đơn Trung Địa x1 Dung Môi Ảo Mộng x2]
 70201: Phôi Cung Bắc Lục [Phôi Cung Trung Địa x1 Dung Môi Ảo Mộng x2]
 70301: Phôi Trọng Kiếm Bắc Lục [Phôi Trọng Kiếm Trung Địa x1 Dung Môi Ảo Mộng x2]

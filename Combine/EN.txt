@@ -1,5 +1,5 @@
 // The sources are taken from AnimeGameData: https://github.com/DimbreathBot/AnimeGameData
-// Latest version: 6.5.0
+// Latest version: 6.6.0
 // Especially for Shika
 
 11001: Slime Secretions [Slime Condensate x3]
@@ -513,6 +513,12 @@
 61204: Madman's Restraint [Elixir of the Heretic x1 Dream Solvent x1]
 61205: Elixir of the Heretic [Mask of the Virtuous Doctor x1 Dream Solvent x1]
 61206: Elixir of the Heretic [Madman's Restraint x1 Dream Solvent x1]
+61301: Counterfeit Resin [Twisted Withered Branch x1 Dream Solvent x1]
+61302: Counterfeit Resin [Profaned Sprout x1 Dream Solvent x1]
+61303: Twisted Withered Branch [Counterfeit Resin x1 Dream Solvent x1]
+61304: Twisted Withered Branch [Profaned Sprout x1 Dream Solvent x1]
+61305: Profaned Sprout [Counterfeit Resin x1 Dream Solvent x1]
+61306: Profaned Sprout [Twisted Withered Branch x1 Dream Solvent x1]
 70101: Northlander Sword Billet [Midlander Sword Billet x1 Dream Solvent x2]
 70201: Northlander Bow Billet [Midlander Bow Billet x1 Dream Solvent x2]
 70301: Northlander Claymore Billet [Midlander Claymore Billet x1 Dream Solvent x2]
