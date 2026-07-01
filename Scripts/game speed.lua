@@ -1,1 +1,0 @@
-CS.UnityEngine.Time.timeScale = 0.5

@@ -1,1 +1,0 @@
-CS.UnityEngine.RenderSettings.fog = false
